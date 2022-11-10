@@ -13,6 +13,7 @@ ctrl-c
 ```
 
 ## Dashboard Link
+https://stoynove-supermarket-sales-dashboard-app-x9qkme.streamlit.app/
 
 ## Screenshot
 
